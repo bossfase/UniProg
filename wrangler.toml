@@ -1,5 +1,4 @@
-name = "mein-projekt"
+name = "UniProg"
 type = "javascript"
-account_id = "DEIN_ACCOUNT_ID"
 workers_dev = true
 pages_build_output_dir = "./"  # Hier sagen wir Cloudflare, dass es die Dateien im aktuellen Ordner suchen soll
