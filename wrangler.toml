@@ -1,0 +1,4 @@
+name = "mein-projekt"
+type = "javascript"
+account_id = "DEIN_ACCOUNT_ID"
+workers_dev = true
