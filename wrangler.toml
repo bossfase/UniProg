@@ -1,3 +1,3 @@
-name = "UniProg"
+name = "uniprog"
 pages_build_output_dir = "./"  # Hier suchen wir im aktuellen Ordner nach den HTML-Dateien
 
