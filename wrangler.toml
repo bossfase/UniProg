@@ -1,4 +1,3 @@
 name = "UniProg"
-type = "javascript"
-workers_dev = true
-pages_build_output_dir = "./"  # Hier sagen wir Cloudflare, dass es die Dateien im aktuellen Ordner suchen soll
+pages_build_output_dir = "./"  # Hier suchen wir im aktuellen Ordner nach den HTML-Dateien
+
